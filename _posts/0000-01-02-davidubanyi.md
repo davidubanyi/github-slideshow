@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"You have eternal life in you" - David Ubanyi
 Use the left arrow to go back!
